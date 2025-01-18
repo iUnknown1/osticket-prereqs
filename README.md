@@ -28,11 +28,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h3>1. Create a Virtual Machine</h3>
 In Microsoft Azure, we will create a Virtual Machine and make a new resource group, "osTicket".
 
-VM Name: osTicket-vm
-
-Image: Windows 10 Pro, version 22H2 - 64x Gen 2
-
-Size: 2 vCPUs, 8 Gig Memory Minimum
+-VM Name: osTicket-vm
+-Image: Windows 10 Pro, version 22H2 - 64x Gen 2
+-Size: 2 vCPUs, 8 Gig Memory Minimum
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
