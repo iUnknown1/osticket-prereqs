@@ -25,7 +25,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-1. Create a Virtual Machine
+<h3>1. Create a Virtual Machine</h3>
 In Microsoft Azure, we will create a Virtual Machine and make a new resource group, "osTicket".
 
 VM Name: osTicket-vm
