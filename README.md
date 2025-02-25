@@ -138,7 +138,7 @@ From the “osTicket-Installation-Files” folder, install HeidiSQL.
 ![image](https://github.com/user-attachments/assets/869501ee-35fd-43de-be0d-81f2e9e05daa)
 
 <p>
-In HeidiSQL click new, then make username = root and Password = root then click install 
+In HeidiSQL click new, then make username = root and Password = root. Create a new database and fill it out and then click install 
 </p>
 <br />
 
