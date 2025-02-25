@@ -108,9 +108,44 @@ Reload IIS again, go to sites and click Browse *80 which opens the osticket inst
 
 ![image](https://github.com/user-attachments/assets/b9d92669-52db-4747-ba48-fb830af610ef)
 
+<p>
+We see that some extensions are not enabled so we go back to php manger to enable them
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/c0b495e9-4dae-4360-bcd2-00b9f92f6a5d)
 
 <p>
-Now I open IIS as an Admin
+Rename: ost-config.php by removing "sample" from the name
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/5b66b7e6-6a15-4d22-858e-82d44c131b4d)
+
+
+<p>
+Right-click on ost-config.php> Properties> Security> Advanced> Disable Inheritance> Remove all inherited permissions from this object. Then click add button to add permissions to the file
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/1910c1cf-9ae2-4cf0-9ae4-0ace4b7bf47e)
+
+<p>
+From the “osTicket-Installation-Files” folder, install HeidiSQL.
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/869501ee-35fd-43de-be0d-81f2e9e05daa)
+
+<p>
+In HeidiSQL click new, then make username = root and Password = root then click install 
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/64c0c135-46d9-4f4a-9342-afe8b225af3c)
+
+<p>
+ osTicket is now installed and ready for use!
 </p>
 <br />
 
